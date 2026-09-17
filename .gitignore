@@ -1,0 +1,20 @@
+# Build output directories
+build/
+build-vita/
+cmake-build-*/
+
+# Binaries and compiled packages
+*.vpk
+*.velf
+*.self
+eboot.bin
+
+# Proprietary / commercial DOS game assets (do not distribute on GitHub)
+Game/
+
+# macOS system files
+.DS_Store
+._*
+
+# Temporary files and logs
+*.log
