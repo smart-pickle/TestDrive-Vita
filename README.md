@@ -8,7 +8,7 @@ This port brings Accolade's seminal 1987 PC racing classic to the PS Vita with n
 
 ## Features
 
-- **Hardware Acceleration**: Smooth 60 FPS presentation powered by VitaSDK's SDL2 with VitaGL/GXM GPU backend.
+- **Hardware Acceleration**: Stable framerate using VitaSDK's SDL2 with VitaGL/GXM GPU backend.
 - **Tri-Mode Aspect Ratio Engine**: Toggle between 3 display modes in real time with the **`Select`** button:
   - **Mode 1 (Default)**: 4:3 Aspect-Correct ($725 \times 544$ pillarboxed) — authentic retro CRT proportion with full dashboard gauge visibility.
   - **Mode 2**: 2× Integer Scale ($640 \times 480$ centered) — razor-sharp pixel doubling matching original DOS EGA scanlines.
